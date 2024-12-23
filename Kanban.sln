@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.API", "KanbanApi\Kanban.API.csproj", "{9E9D1012-7F49-4DF2-A7B0-0F6792F08C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanBan.Domain", "KanBan.Domain\KanBan.Domain.csproj", "{270288C8-5316-4ED8-81FC-AA192120DB8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Application", "Kanban.Application\Kanban.Application.csproj", "{731AB835-9FC8-40B8-80DB-ACD4BA99FBF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Infrastructure", "Kanban.Infrastructure\Kanban.Infrastructure.csproj", "{A21233EA-1253-435C-8696-43FDE534C72D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9D1012-7F49-4DF2-A7B0-0F6792F08C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9D1012-7F49-4DF2-A7B0-0F6792F08C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9D1012-7F49-4DF2-A7B0-0F6792F08C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9D1012-7F49-4DF2-A7B0-0F6792F08C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270288C8-5316-4ED8-81FC-AA192120DB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270288C8-5316-4ED8-81FC-AA192120DB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270288C8-5316-4ED8-81FC-AA192120DB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270288C8-5316-4ED8-81FC-AA192120DB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731AB835-9FC8-40B8-80DB-ACD4BA99FBF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731AB835-9FC8-40B8-80DB-ACD4BA99FBF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731AB835-9FC8-40B8-80DB-ACD4BA99FBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731AB835-9FC8-40B8-80DB-ACD4BA99FBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21233EA-1253-435C-8696-43FDE534C72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21233EA-1253-435C-8696-43FDE534C72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21233EA-1253-435C-8696-43FDE534C72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21233EA-1253-435C-8696-43FDE534C72D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

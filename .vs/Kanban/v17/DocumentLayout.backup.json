@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hames\\RiderProjects\\Kanban\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9D1012-7F49-4DF2-A7B0-0F6792F08C89}|KanbanApi\\Kanban.API.csproj|c:\\users\\hames\\riderprojects\\kanban\\kanbanapi\\quadros\\quadrosrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9D1012-7F49-4DF2-A7B0-0F6792F08C89}|KanbanApi\\Kanban.API.csproj|solutionrelative:kanbanapi\\quadros\\quadrosrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731AB835-9FC8-40B8-80DB-ACD4BA99FBF1}|Kanban.Application\\Kanban.Application.csproj|c:\\users\\hames\\riderprojects\\kanban\\kanban.application\\quadros\\quadroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731AB835-9FC8-40B8-80DB-ACD4BA99FBF1}|Kanban.Application\\Kanban.Application.csproj|solutionrelative:kanban.application\\quadros\\quadroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731AB835-9FC8-40B8-80DB-ACD4BA99FBF1}|Kanban.Application\\Kanban.Application.csproj|c:\\users\\hames\\riderprojects\\kanban\\kanban.application\\quadros\\iquadroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731AB835-9FC8-40B8-80DB-ACD4BA99FBF1}|Kanban.Application\\Kanban.Application.csproj|solutionrelative:kanban.application\\quadros\\iquadroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21233EA-1253-435C-8696-43FDE534C72D}|Kanban.Infrastructure\\Kanban.Infrastructure.csproj|c:\\users\\hames\\riderprojects\\kanban\\kanban.infrastructure\\repositories\\quadros\\quadrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21233EA-1253-435C-8696-43FDE534C72D}|Kanban.Infrastructure\\Kanban.Infrastructure.csproj|solutionrelative:kanban.infrastructure\\repositories\\quadros\\quadrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21233EA-1253-435C-8696-43FDE534C72D}|Kanban.Infrastructure\\Kanban.Infrastructure.csproj|c:\\users\\hames\\riderprojects\\kanban\\kanban.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21233EA-1253-435C-8696-43FDE534C72D}|Kanban.Infrastructure\\Kanban.Infrastructure.csproj|solutionrelative:kanban.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21233EA-1253-435C-8696-43FDE534C72D}|Kanban.Infrastructure\\Kanban.Infrastructure.csproj|c:\\users\\hames\\riderprojects\\kanban\\kanban.infrastructure\\repositories\\quadros\\iquadrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21233EA-1253-435C-8696-43FDE534C72D}|Kanban.Infrastructure\\Kanban.Infrastructure.csproj|solutionrelative:kanban.infrastructure\\repositories\\quadros\\iquadrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9D1012-7F49-4DF2-A7B0-0F6792F08C89}|KanbanApi\\Kanban.API.csproj|c:\\users\\hames\\riderprojects\\kanban\\kanbanapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9D1012-7F49-4DF2-A7B0-0F6792F08C89}|KanbanApi\\Kanban.API.csproj|solutionrelative:kanbanapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9D1012-7F49-4DF2-A7B0-0F6792F08C89}|KanbanApi\\Kanban.API.csproj|c:\\users\\hames\\riderprojects\\kanban\\kanbanapi\\kanbanapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9E9D1012-7F49-4DF2-A7B0-0F6792F08C89}|KanbanApi\\Kanban.API.csproj|solutionrelative:kanbanapi\\kanbanapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21233EA-1253-435C-8696-43FDE534C72D}|Kanban.Infrastructure\\Kanban.Infrastructure.csproj|c:\\users\\hames\\riderprojects\\kanban\\kanban.infrastructure\\kanban.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A21233EA-1253-435C-8696-43FDE534C72D}|Kanban.Infrastructure\\Kanban.Infrastructure.csproj|solutionrelative:kanban.infrastructure\\kanban.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270288C8-5316-4ED8-81FC-AA192120DB8B}|KanBan.Domain\\KanBan.Domain.csproj|c:\\users\\hames\\riderprojects\\kanban\\kanban.domain\\models\\requests\\updatequadrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270288C8-5316-4ED8-81FC-AA192120DB8B}|KanBan.Domain\\KanBan.Domain.csproj|solutionrelative:kanban.domain\\models\\requests\\updatequadrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuadroService.cs",
+              "DocumentMoniker": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Application\\Quadros\\QuadroService.cs",
+              "RelativeDocumentMoniker": "Kanban.Application\\Quadros\\QuadroService.cs",
+              "ToolTip": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Application\\Quadros\\QuadroService.cs",
+              "RelativeToolTip": "Kanban.Application\\Quadros\\QuadroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:19:32.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQuadroService.cs",
+              "DocumentMoniker": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Application\\Quadros\\IQuadroService.cs",
+              "RelativeDocumentMoniker": "Kanban.Application\\Quadros\\IQuadroService.cs",
+              "ToolTip": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Application\\Quadros\\IQuadroService.cs",
+              "RelativeToolTip": "Kanban.Application\\Quadros\\IQuadroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:19:16.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuadroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Infrastructure\\Repositories\\Quadros\\QuadroRepository.cs",
+              "RelativeDocumentMoniker": "Kanban.Infrastructure\\Repositories\\Quadros\\QuadroRepository.cs",
+              "ToolTip": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Infrastructure\\Repositories\\Quadros\\QuadroRepository.cs",
+              "RelativeToolTip": "Kanban.Infrastructure\\Repositories\\Quadros\\QuadroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:16:08.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IQuadroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Infrastructure\\Repositories\\Quadros\\IQuadroRepository.cs",
+              "RelativeDocumentMoniker": "Kanban.Infrastructure\\Repositories\\Quadros\\IQuadroRepository.cs",
+              "ToolTip": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Infrastructure\\Repositories\\Quadros\\IQuadroRepository.cs",
+              "RelativeToolTip": "Kanban.Infrastructure\\Repositories\\Quadros\\IQuadroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:15:51.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KanbanApi.http",
+              "DocumentMoniker": "C:\\Users\\hames\\RiderProjects\\Kanban\\KanbanApi\\KanbanApi.http",
+              "RelativeDocumentMoniker": "KanbanApi\\KanbanApi.http",
+              "ToolTip": "C:\\Users\\hames\\RiderProjects\\Kanban\\KanbanApi\\KanbanApi.http",
+              "RelativeToolTip": "KanbanApi\\KanbanApi.http",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-03T02:34:54.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kanban.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Infrastructure\\Kanban.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Kanban.Infrastructure\\Kanban.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Infrastructure\\Kanban.Infrastructure.csproj",
+              "RelativeToolTip": "Kanban.Infrastructure\\Kanban.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T02:23:14.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Kanban.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hames\\RiderProjects\\Kanban\\Kanban.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Kanban.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:17:56.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateQuadroRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hames\\RiderProjects\\Kanban\\KanBan.Domain\\Models\\Requests\\UpdateQuadroRequest.cs",
+              "RelativeDocumentMoniker": "KanBan.Domain\\Models\\Requests\\UpdateQuadroRequest.cs",
+              "ToolTip": "C:\\Users\\hames\\RiderProjects\\Kanban\\KanBan.Domain\\Models\\Requests\\UpdateQuadroRequest.cs",
+              "RelativeToolTip": "KanBan.Domain\\Models\\Requests\\UpdateQuadroRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:15:59.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hames\\RiderProjects\\Kanban\\KanbanApi\\Program.cs",
+              "RelativeDocumentMoniker": "KanbanApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hames\\RiderProjects\\Kanban\\KanbanApi\\Program.cs",
+              "RelativeToolTip": "KanbanApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:55:13.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuadrosRotas.cs",
+              "DocumentMoniker": "C:\\Users\\hames\\RiderProjects\\Kanban\\KanbanApi\\Quadros\\QuadrosRotas.cs",
+              "RelativeDocumentMoniker": "KanbanApi\\Quadros\\QuadrosRotas.cs",
+              "ToolTip": "C:\\Users\\hames\\RiderProjects\\Kanban\\KanbanApi\\Quadros\\QuadrosRotas.cs",
+              "RelativeToolTip": "KanbanApi\\Quadros\\QuadrosRotas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:52:09.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
